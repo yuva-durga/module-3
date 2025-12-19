@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./q1-userdata/App";
+import App from "./counter-alert/App";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
