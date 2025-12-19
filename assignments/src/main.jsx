@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./status-toggle/App";
+import App from "./color-toggle/App";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
